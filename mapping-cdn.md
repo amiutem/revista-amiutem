@@ -2,3 +2,6 @@ Para acelerar la carga de los archivos PDF de open journal estoy pensando en ser
 
 * [Primer opcion usar .htaccess para el rewrite en un subdominio](https://stackoverflow.com/questions/3510061/using-htaccess-to-serve-static-files-via-a-subdomain)
 * [Usar un segundo subdomain en el mismo servidor]
+* Usar CDN para todo el sitio
+* Usar Cache solo para los PDF
+* [Usar NGINX rewrite para servir los nuevos archivos](http://nginx.org/en/docs/http/ngx_http_rewrite_module.html#rewrite)
