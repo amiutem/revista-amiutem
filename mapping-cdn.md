@@ -1,0 +1,1 @@
+Para acelerar la carga de los archivos PDF de open journal estoy pensando en servirlos a través de un CDN para ello es necesario rescribir la url del link para ser descargado de una ubicación diferente.
