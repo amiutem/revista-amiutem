@@ -6,3 +6,6 @@ Revista Amiutem fook from open journal
 * Utilizar un cache ( Varninsh)
 * importar el contenido del sitio anterior a la versin más reciente.
 
+# Themes
+* [Mason Publishing](https://github.com/masonpublishing/OJS-Theme)
+* https://github.com/beghelli/modernTheme
